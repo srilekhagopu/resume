@@ -1,0 +1,109 @@
+body{
+	background-color: white;
+	height: 200vh;
+	letter-spacing: 2px;
+	border: 5px solid black;
+	border-radius: 10px 10px 10px 10px;
+	border-spacing: 300px;
+	margin: 80px ;
+
+}
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family:sans-serif;
+	
+}
+.image{
+	height: 150px;
+	width: 180px;
+	background-color: green;
+	border-radius: 50%;
+	margin-bottom: 50px;
+	margin-left: 600px;
+	border:10px solid lightskyblue;
+	box-shadow: 6px 7px 9px 5px lightskyblue;
+
+}
+.image img{
+	width: 25vh;
+	border-radius: 80%;
+}
+
+}
+.contact{
+	text-align: center;
+	margin-top: 100px;
+}
+.contact p,a{
+	text-align: center;
+}
+.profilename p{
+	padding: 10px 10px 10px 20px;
+	margin-top:5px;
+	text-align: center;
+	letter-spacing: 3px;
+}
+.profilename h1,p{
+	margin-bottom: 10px;
+	text-align: center;
+}
+.heading{
+	text-decoration: underline;
+	color: skyblue;
+
+}
+.duration{
+	text-align: right;
+	margin-inline: 200px;
+}
+.skill{
+	columns: 3 auto;
+	column-gap: 50px;
+
+}
+.skill2{
+	width: 90%;
+	background-color: black;
+	margin: 0px 10px;
+}
+.skill1{
+text-align: right;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	color: black;
+}
+.html{
+	width: 90%;
+	background-color: skyblue;
+}
+.css{
+	width: 90%;
+	background-color: skyblue;
+}
+.javascript{
+	width: 90%;
+	background-color: skyblue;
+}
+.c{
+	width: 90%;
+	background-color: skyblue;
+}
+.python{
+	width: 90%;
+	background-color: skyblue;
+}
+.sql{
+	width: 90%;
+	background-color: skyblue;
+}
+.ms{
+	width: 90%;
+	background-color: skyblue;
+}
+h3{
+	font-weight: bold;
+}
+p{
+	text-align: left;
+}
